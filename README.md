@@ -17,7 +17,7 @@ These are files to create a Facebook Phising site to get Victim's Gmail and Pass
 
 **Social Media**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dhruvrajsingh27
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dhruvrajsingh27)
  
  **Disclaimer**
 
